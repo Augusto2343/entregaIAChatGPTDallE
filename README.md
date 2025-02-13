@@ -42,13 +42,3 @@ luego incluirlo en el archivo .py
 (import openai)
 
 
-Demostracion de herramientas descargadas:
-ChatGPT: 
-
-
-OpenAI API key:
-
-
-
-Cuenta de streamlit: 
-
