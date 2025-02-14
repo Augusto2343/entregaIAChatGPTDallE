@@ -1,6 +1,5 @@
 Proyecto final de IA generación de prompts 
-
-
+Este asistente que integra IA de OpenAI (chatGPT4o) te ayudará a elegir los mejores componentes de PC para el uso que le vas a dar y presupuesto tienes buscando en diferentes sitios web y te devolverá los componentes y sus precios correspondientes. 
 Metodología:
 Para generar la lista de componentes: Utilicé chat-GPT y un prompt bien completo para que busque en la web, filtre los componentes con los mejores precios y mejores prestaciones y devuelva los componentes con una explicación corta en formato de lista para que el usuario pueda leerlo y entenderlo fácilmente.
 
