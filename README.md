@@ -1,4 +1,4 @@
-                                                                                                 Proyecto Final IA.
+Proyecto Final IA.
 Presentación de la problemática: A la hora de comprar o armar una PC hay personas que no saben mucho del tema pero necesitan una PC para poder trabajar, estudiar, jugar, etc.y muchos vendedores se aprovechan de eso para ganar a costa de ellos ofreciéndoles cosas que no necesitan o componentes inapropiados al uso que los clientes le van a dar.
 
 Resolución de la problemática: Esto se puede solucionar si utilizamos bien la IA ya que podemos plantearle nuestro escenario actual ,para que utilizaremos la PC, algunas APPs que usaremos, y cuál es nuestro presupuesto. Para que nos devuelva una recomendación eficaz y acorde a lo que el cliente necesite.
